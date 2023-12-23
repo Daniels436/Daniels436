@@ -2,7 +2,7 @@
 
 **Daniels436/Daniels436** 
 
- 🔭 I'm currently working from home doing odd jobs
+ 🔭 I'm currently working from home freelance
  
  🌱 Learning git, github, power bi, javascript, paython, frameworks and dependencies, with the aim of improving my skills
  
