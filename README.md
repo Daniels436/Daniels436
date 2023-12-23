@@ -2,7 +2,7 @@
 !--
 **Daniels436/Daniels436** is a ✨ _special_ ✨ 
  🔭 I'm currently working from home doing odd jobs
-- 🌱 Learning git, github, power bi, javascript, new paython, frameworks and dependencies, with the aim of improving my skills
+- 🌱 Learning git, github, power bi, javascript, paython, frameworks and dependencies, with the aim of improving my skills
  
 - 👯 I'm looking to collaborate on personal and open source projects...
 - 🤔 I'm looking for help with a new remote placement
