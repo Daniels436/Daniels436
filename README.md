@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Daniels436/Daniels436** 
+**Daniel P. Souza** 
 
  🔭 I'm currently working from home freelance
  
