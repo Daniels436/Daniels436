@@ -2,7 +2,7 @@
 
 **Sou formado em Análise e Desenvolvimento de Sistemas, com um MBA em Gerenciamento de Projetos de TI** 
 
- 🔭 currently freelance
+ 🔭 Currently freelance
  
  🌱 Learning git, github, power bi, javascript, paython, frameworks and dependencies, with the aim of improving my skills
  
