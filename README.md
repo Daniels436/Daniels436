@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-** Sou Daniel P. Souza Sou formado em Análise e Desenvolvimento de Sistemas, com um MBA em Gerenciamento de Projetos de TI ** 
+**Sou Daniel P. Souza Sou formado em Análise e Desenvolvimento de Sistemas, com um MBA em Gerenciamento de Projetos de TI** 
 
  🔭 I'm currently working from home freelance
  
