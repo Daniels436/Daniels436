@@ -10,6 +10,6 @@
 
  🤔 I'm looking for help with a new remote placement
  
- 💬 Ask me about JavaScrip, GIT and Figma
+ 💬 Ask me about JavaScrip, GIT, Figma and C++
  
  📫 How to contact me: danielzele01@yahoo.com.br
