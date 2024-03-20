@@ -12,4 +12,4 @@
  
  💬 Ask me about JavaScrip, GIT, Figma and C++
  
- 📫 How to contact me:https://daniels436.github.io/
+ 📫🏠 HoMe to contact me:https://daniels436.github.io/
