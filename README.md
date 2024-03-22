@@ -10,6 +10,6 @@
 
  🤔 I'm looking for help with a new remote placement
  
- 💬 Ask me about JavaScrip, GIT, Figma and C++
+ 💬 Ask me about DOCKER, psql,node.js,JavaScrip,css,html,SEO, GIT, Figma and C++
  
  📫🏠 HoMe to contact me:https://daniels436.github.io/
